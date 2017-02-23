@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/rahul.hooda/Rahul-Data/SampleWeatherApp/WeatherAdSdk/build/intermediates/res/merged/androidTest/debug/mipmap-mdpi-v4/ic_launcher.png",
+        "source": "/Users/rahul.hooda/Rahul-Data/SampleWeatherApp/WeatherAdSdk/build/intermediates/bundles/debug/res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/rahul.hooda/Rahul-Data/SampleWeatherApp/weatherApp/build/intermediates/res/merged/androidTest/debug/mipmap-mdpi-v4/ic_launcher.png",
+        "source": "/Users/rahul.hooda/Rahul-Data/SampleWeatherApp/weatherApp/build/intermediates/bundles/debug/res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/shadab.khan/Downloads/SampleWeatherApp/WeatherAdSdk/build/intermediates/res/merged/androidTest/debug/mipmap-mdpi-v4/ic_launcher.png",
+        "source": "/Users/shadab.khan/Downloads/SampleWeatherApp/WeatherAdSdk/build/intermediates/bundles/debug/res/mipmap-mdpi-v4/ic_launcher.png"
+    }
+]

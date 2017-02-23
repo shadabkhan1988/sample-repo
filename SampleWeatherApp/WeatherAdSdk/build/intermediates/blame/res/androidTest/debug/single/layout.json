@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/rahul.hooda/Rahul-Data/SampleWeatherApp/WeatherAdSdk/build/intermediates/res/merged/androidTest/debug/layout/weather_sdk_view.xml",
+        "source": "/Users/rahul.hooda/Rahul-Data/SampleWeatherApp/WeatherAdSdk/build/intermediates/bundles/debug/res/layout/weather_sdk_view.xml"
+    },
+    {
+        "merged": "/Users/rahul.hooda/Rahul-Data/SampleWeatherApp/weatherApp/build/intermediates/res/merged/androidTest/debug/layout/activity_main.xml",
+        "source": "/Users/rahul.hooda/Rahul-Data/SampleWeatherApp/weatherApp/build/intermediates/bundles/debug/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/shadab.khan/Downloads/SampleWeatherApp/WeatherAdSdk/build/intermediates/res/merged/androidTest/debug/layout/weather_sdk_view.xml",
+        "source": "/Users/shadab.khan/Downloads/SampleWeatherApp/WeatherAdSdk/build/intermediates/bundles/debug/res/layout/weather_sdk_view.xml"
+    }
+]

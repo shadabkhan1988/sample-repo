@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/rahul.hooda/Rahul-Data/SampleWeatherApp/WeatherAdSdk/build/intermediates/res/merged/release/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/rahul.hooda/Rahul-Data/SampleWeatherApp/WeatherAdSdk/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.0/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/rahul.hooda/Rahul-Data/SampleWeatherApp/WeatherAdSdk/build/intermediates/res/merged/release/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/rahul.hooda/Rahul-Data/SampleWeatherApp/WeatherAdSdk/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.0/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/rahul.hooda/Rahul-Data/SampleWeatherApp/weatherApp/build/intermediates/res/merged/release/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/rahul.hooda/Rahul-Data/SampleWeatherApp/weatherApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.0/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/rahul.hooda/Rahul-Data/SampleWeatherApp/WeatherAdSdk/build/intermediates/res/merged/release/color/common_google_signin_btn_tint.xml",
+        "source": "/Users/rahul.hooda/Rahul-Data/SampleWeatherApp/WeatherAdSdk/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.0/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/Users/rahul.hooda/Rahul-Data/SampleWeatherApp/weatherApp/build/intermediates/res/merged/release/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/rahul.hooda/Rahul-Data/SampleWeatherApp/weatherApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.0/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/rahul.hooda/Rahul-Data/SampleWeatherApp/weatherApp/build/intermediates/res/merged/release/color/common_google_signin_btn_tint.xml",
+        "source": "/Users/rahul.hooda/Rahul-Data/SampleWeatherApp/weatherApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.0/res/color/common_google_signin_btn_tint.xml"
+    }
+]

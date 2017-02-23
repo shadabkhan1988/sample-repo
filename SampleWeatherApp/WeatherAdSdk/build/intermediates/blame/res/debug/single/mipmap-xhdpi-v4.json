@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/shadab.khan/Downloads/SampleWeatherApp/WeatherAdSdk/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/ic_launcher.png",
+        "source": "/Users/shadab.khan/Downloads/SampleWeatherApp/WeatherAdSdk/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/rahul.hooda/Rahul-Data/SampleWeatherApp/weatherApp/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/ic_launcher.png",
+        "source": "/Users/rahul.hooda/Rahul-Data/SampleWeatherApp/weatherApp/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/rahul.hooda/Rahul-Data/SampleWeatherApp/WeatherAdSdk/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/ic_launcher.png",
+        "source": "/Users/rahul.hooda/Rahul-Data/SampleWeatherApp/WeatherAdSdk/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/rahul.hooda/Rahul-Data/SampleWeatherApp/weatherApp/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/newsimage.jpg",
+        "source": "/Users/rahul.hooda/Rahul-Data/SampleWeatherApp/weatherApp/src/main/res/mipmap-xhdpi/newsimage.jpg"
+    },
+    {
+        "merged": "/Users/rahul.hooda/Rahul-Data/SampleWeatherApp/WeatherAdSdk/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/newsimage.jpg",
+        "source": "/Users/rahul.hooda/Rahul-Data/SampleWeatherApp/WeatherAdSdk/src/main/res/mipmap-xhdpi/newsimage.jpg"
+    },
+    {
+        "merged": "/Users/shadab.khan/Downloads/SampleWeatherApp/WeatherAdSdk/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/newsimage.jpg",
+        "source": "/Users/shadab.khan/Downloads/SampleWeatherApp/WeatherAdSdk/src/main/res/mipmap-xhdpi/newsimage.jpg"
+    }
+]

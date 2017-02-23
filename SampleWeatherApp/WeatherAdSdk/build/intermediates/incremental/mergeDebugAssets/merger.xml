@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/shadab.khan/Downloads/SampleWeatherApp/WeatherAdSdk/src/main/assets"/><source path="/Users/shadab.khan/Downloads/SampleWeatherApp/WeatherAdSdk/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/shadab.khan/Downloads/SampleWeatherApp/WeatherAdSdk/src/debug/assets"/></dataSet></merger>
